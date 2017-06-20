@@ -1,0 +1,18 @@
+PODS:
+  - BaiduMapKit (3.2.1)
+  - JCore (1.1.1)
+  - JPush (3.0.2):
+    - JCore (= 1.1.1)
+
+DEPENDENCIES:
+  - BaiduMapKit
+  - JPush (= 3.0.2)
+
+SPEC CHECKSUMS:
+  BaiduMapKit: 9c748785aa3dddfc41dcb70c14b21ce32f680930
+  JCore: 2210a789c8efb7dc2a46b1c24d2209b995b18ad2
+  JPush: 5d53c88e32e48b559edc3adb20ade30903a5b9e1
+
+PODFILE CHECKSUM: b79277dc07f80a657d0289923031c3288b256cc2
+
+COCOAPODS: 1.1.1
